@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
-%TF.CreationDate,2023-10-22T18:59:45+02:00*%
+%TF.CreationDate,2023-10-24T13:10:59+02:00*%
 %TF.ProjectId,Monorail_Steam_Reduced,4d6f6e6f-7261-4696-9c5f-537465616d5f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-22 18:59:45*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-24 13:10:59*
 %MOMM*%
 %LPD*%
 G01*
@@ -21,7 +21,7 @@ G04 APERTURE LIST*
 %ADD17O,1.000000X2.100000*%
 %ADD18C,3.600000*%
 %ADD19C,3.000000*%
-%ADD20C,3.200000*%
+%ADD20C,2.900000*%
 G04 APERTURE END LIST*
 D10*
 %TO.C,HOLE_M3*%
@@ -392,10 +392,10 @@ D12*
 X43973750Y-73025000D03*
 D11*
 X38893750Y-73025000D03*
-D12*
-X33813750Y-73025000D03*
 D20*
 X35083750Y-70485000D03*
+D12*
+X33813750Y-73025000D03*
 D18*
 X41433750Y-67945000D03*
 %TD*%
