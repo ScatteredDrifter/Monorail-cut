@@ -7938,8 +7938,8 @@
     )
   )
 
-  (symbol (lib_id "Diode:BAV70") (at 266.7 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Diode:BAV70") (at 266.7 119.38 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid a0bb909c-c3f6-4020-a14b-39defe7a3669)
     (property "Reference" "D21" (at 266.7 113.03 0)
       (effects (font (size 1.27 1.27)))
